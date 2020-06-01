@@ -1,0 +1,45 @@
+a.btn-neutral.btn-icon.create-an-account.btn.btn-default {
+    float: right;
+}
+
+section.section.section-hero.section-shaped {
+    background: linear-gradient(150deg, #000 15%, #f00 70%, #f00 94%);
+}
+
+.section-shaped .shape-style-1.shape-default {
+    background: linear-gradient(150deg, #000 15%, #f00 70%, #f00 94%);
+}
+
+.btn-neutral {
+    color: #000;
+}
+
+.btn-neutral:hover {
+    color: #f00;
+}
+
+.spacer {
+    height: 80px;
+}
+
+section.section.section-lg.pt-lg-0.mt--200 {
+    padding-bottom: 0px;
+}
+
+.icon-shape-success {
+    color: #fff;
+    background-color: #000;
+}
+
+a.mt-4.btn.btn-black {
+    background: #000;
+    color: #fff;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: #f00;
+}
