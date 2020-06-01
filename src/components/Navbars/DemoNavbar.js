@@ -166,21 +166,21 @@ class DemoNavbar extends React.Component {
                     </DropdownMenu>
                   </UncontrolledDropdown> */}
                   <li class="dropdown nav-item">
-                    <a aria-haspopup="true" href="/landing-page" class="nav-link" aria-expanded="false">
+                    <a aria-haspopup="true" href="/about" class="nav-link" aria-expanded="false">
                       <i class="ni ni-collection d-lg-none mr-1"></i>
-                      <span class="nav-link-inner--text">Contact</span>
-                      </a>
-                        </li>
-                  <li class="dropdown nav-item">
-                    <a aria-haspopup="true" href="/landing-page" class="nav-link" aria-expanded="false">
-                      <i class="ni ni-collection d-lg-none mr-1"></i>
-                      <span class="nav-link-inner--text">About</span>
+                      <span class="nav-link-inner--text">About &amp; Contact</span>
                       </a>
                         </li>
                   <li class="dropdown nav-item">
                     <a aria-haspopup="true" href="/leaderboards" class="nav-link" aria-expanded="false">
                       <i class="ni ni-collection d-lg-none mr-1"></i>
                       <span class="nav-link-inner--text">Leaderboards</span>
+                      </a>
+                        </li>
+                        <li class="dropdown nav-item">
+                    <a aria-haspopup="true" href="/register" class="nav-link" aria-expanded="false">
+                      <i class="ni ni-collection d-lg-none mr-1"></i>
+                      <span class="nav-link-inner--text">Register</span>
                       </a>
                         </li>
                 </Nav>

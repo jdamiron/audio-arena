@@ -10,6 +10,10 @@ section.section.section-hero.section-shaped {
     background: linear-gradient(150deg, #000 15%, #f00 70%, #f00 94%);
 }
 
+.shape.shape-style-1.bg-gradient-default {
+    background: linear-gradient(150deg, #000 15%, #f00 70%, #f00 94%);
+}
+
 .btn-neutral {
     color: #000;
 }
@@ -42,4 +46,28 @@ a {
 
 a:hover {
     color: #f00;
+}
+
+.text-password {
+    color: #fff;
+}
+
+.text-password:hover {
+    color: #fff;
+}
+
+.sign-button:hover {
+    color: #f00;
+}
+
+blockquote.card-blockquote {
+    background: linear-gradient(150deg, #000 15%, #f00 70%, #f00 94%);
+}
+
+.bg-gradient-default-landing {
+    background: linear-gradient(150deg, #000 15%, #f00 70%, #f00 94%);  
+}
+
+.bg-default.shadow.border-0.card {
+    background: #000 !important;
 }
